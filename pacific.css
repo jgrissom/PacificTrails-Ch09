@@ -75,6 +75,10 @@ h3 {
 }
 main ul { list-style-image: url(marker.gif); }
 dt { color: #002171; }
+table {
+  border: 2px solid #3399CC;
+  border-collapse: collapse;
+}
 footer { 
   font-size: 75%;
   font-style: italic;
