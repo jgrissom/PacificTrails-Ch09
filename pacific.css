@@ -79,6 +79,7 @@ table {
   border: 2px solid #3399CC;
   border-collapse: collapse;
 }
+tr:nth-of-type(odd) { background-color: #F5FAFC; }
 td, th { 
   padding: 0.5em;
   border: 2px solid #3399CC; 
