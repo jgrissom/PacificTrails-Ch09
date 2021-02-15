@@ -83,6 +83,7 @@ td, th {
   padding: 0.5em;
   border: 2px solid #3399CC; 
 }
+td { text-align: center; }
 footer { 
   font-size: 75%;
   font-style: italic;
