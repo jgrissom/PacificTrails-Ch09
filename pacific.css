@@ -84,6 +84,7 @@ td, th {
   border: 2px solid #3399CC; 
 }
 td { text-align: center; }
+.text { text-align: left; }
 footer { 
   font-size: 75%;
   font-style: italic;
